@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageMenuOverlay</string>
+    <string name="image_view">The image view</string>
+</resources>
